@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:Live TV Pro
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/oDQ4LN8zlN.png", Colors Bangla
+https://xtream.kbhub.online/live/kblivetv/kblivetv/98882.ts
 #EXTINF:-1 tvg-name="T Global News (Canada)" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="NEWS INTERNASIONAL",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="Global News (US)" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="NEWS INTERNASIONAL",Global News (US)
